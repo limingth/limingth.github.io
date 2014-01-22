@@ -21,7 +21,7 @@ title: 嵌入式自由学习之路-亚嵌李明老师
 
 ### 视频下载 `LASO.videos`   
 + <http://www.boobooke.com/m/T98.html>   (视频讲座共67集，已经全部免费发布)
-+ <http://www.boobooke.com/download/MBoo2013.zip> 视频播放器下载
++ <http://www.boobooke.com/download/MBoo2013.zip>   (视频播放器下载)
 
 >* [Web 视频mp4测试链接](http://www.lumit.org/ARM-Videos/video-demo/test-mp4.html)
 
